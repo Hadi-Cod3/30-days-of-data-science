@@ -12,7 +12,7 @@ I'm Hadi, a graduate in Industrial Relations and Personnel Management with exper
 
 | Days | Topic | Status |
 |------|-------|--------|
-| 1-2 | NumPy | Day 1 done: [gradebook](numpys/) |
+| 1-2 | NumPy | Day 1 done: [gradebook.py](numpys/) |
 | 3-4 | Pandas | Planned |
 | 5-6 | Missing values, outliers, descriptive stats | Planned |
 | 7-8 | Matplotlib and Seaborn | Planned |
