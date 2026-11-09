@@ -14,13 +14,6 @@ I'm Hadi, a graduate in Industrial Relations and Personnel Management with exper
 |-----|-------|---------|
 | 1 | NumPy | [gradebook](numpys/) |
 
-## How each day is organised
-
-```
-day-XX-topic/
-  README.md      what I built, what clicked, what tripped me up
-  *.py / *.ipynb the code
-```
 
 ## Tools
 
