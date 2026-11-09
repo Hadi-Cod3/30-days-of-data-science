@@ -10,23 +10,9 @@ I'm Hadi, a graduate in Industrial Relations and Personnel Management with exper
 
 ## Progress
 
-| Days | Topic | Status |
-|------|-------|--------|
-| 1-2 | NumPy | Day 1 done: [gradebook.py](numpys/) |
-| 3-4 | Pandas | Planned |
-| 5-6 | Missing values, outliers, descriptive stats | Planned |
-| 7-8 | Matplotlib and Seaborn | Planned |
-| 9-10 | Correlation, covariance, distributions | Planned |
-| 11-12 | Hypothesis testing | Planned |
-| 13-14 | SQL: joins, GROUP BY, HAVING | Planned |
-| 15-16 | SQL: subqueries, SQL + Python | Planned |
-| 17-18 | Linear and logistic regression | Planned |
-| 19-20 | Decision trees, random forests, overfitting | Planned |
-| 21-22 | ROC, F1, imbalanced classes | Planned |
-| 23-24 | Pipelines and hyperparameter tuning | Planned |
-| 25-26 | Clustering and PCA | Planned |
-| 27-28 | Model deployment with Streamlit | Planned |
-| 29-30 | Explainability, fairness, capstone | Planned |
+| Day | Topic | Project |
+|-----|-------|---------|
+| 1 | NumPy | [gradebook](numpys/) |
 
 ## How each day is organised
 
