@@ -12,8 +12,17 @@ I'm Hadi, a graduate in Industrial Relations and Personnel Management with exper
 
 | Day | Topic | Project |
 |-----|-------|---------|
-| 1 | NumPy | [gradebook](numpys/) |
+| 1 | NumPy | [gradebook](numpys/gradebook.py) |
+| 2 | NumPy | [shopsales](numpys/shopsales.py) |
 
+## How each day is organised
+
+```
+numpys/
+  README.md      what I built, what clicked, what tripped me up
+  gradebook.py   Day 1
+  shopsales.py   Day 2
+```
 
 ## Tools
 
