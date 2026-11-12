@@ -14,6 +14,7 @@ I'm Hadi, a graduate in Industrial Relations and Personnel Management with exper
 |-----|-------|---------|
 | 1 | NumPy | [gradebook](numpys/gradebook.py) |
 | 2 | NumPy | [shopsales](numpys/shopsales.py) |
+| 3 | Pandas | [EPL](pandas/EPL.py) |
 
 
 ## Tools
