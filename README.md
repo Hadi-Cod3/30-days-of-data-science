@@ -17,6 +17,7 @@ I'm Hadi, a graduate in Industrial Relations and Personnel Management with exper
 | 3 | Pandas | [EPL](pandas/EPL.py) |
 | 4 | Pandas | [HR_transfer](pandas/HR_transfer.py) |
 | 5-6 | Cleaning | [Titanic](cleaning/titanic.py) |
+| 8 | cleaning | [manipulate](cleaning/manipulate.py) |
 
 
 ## Tools
